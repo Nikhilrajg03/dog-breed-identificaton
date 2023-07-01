@@ -1,0 +1,13 @@
+Breed name,difference,Life Span,gender,height 1 in inches,height 2 in inches,weight 1 in pounds,weight 2 in pounds,colour,health problem
+scottish_deerhound,puppy,11,,,,,,"Blue, Grey","cancer, heart disease ,bone problem "
+scottish_deerhound,adult,11,male,30,32,80,100,"Blue, Grey","cancer, heart disease ,bone problem "
+scottish_deerhound,adult,11,female,28,30,75,95,"Blue, Grey","cancer, heart disease ,bone problem "
+maltese_dog,puppy,15,,, ,,,White,"Dental problem,eye issue,skin alleriges"
+maltese_dog,adult,15,male,7,9,6,10,White,"Dental problem,eye issue,skin alleriges"
+maltese_dog,adult,15,female,7,9,5,8,White,"Dental problem,eye issue,skin alleriges"
+Golden Retriever,puppy,12,,,,,,Gold,"Dental problems, eye issues, skin allergies"
+Golden Retriever,adult,12,male,23,24,65,75,Gold,"Dental problems, eye issues, skin allergies"
+Golden Retriever,adult,12,female,22,23,55,75,Gold,"Dental problems, eye issues, skin allergies"
+bernese_mountain_dog,puppy,10,,,,,,"black,white",hip or elbow dysplasia bloat and cancer
+bernese_mountain_dog,adult,10,male,25,28,50,70,"black,white",hip or elbow dysplasia bloat and cancer
+bernese_mountain_dog,adult,10,female,23,26,40,65,"black,white",hip or elbow dysplasia bloat and cancer
